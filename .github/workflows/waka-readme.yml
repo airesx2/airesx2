@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: airesx2/waka-readme-stats@master
+      - uses: airesx2/waka-readme-stats@994873c977ea21ca5aa4e26a5d15a1492b27b034
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
