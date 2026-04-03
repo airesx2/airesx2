@@ -1,9 +1,9 @@
 <img src="coding-bear.jpg" width="300" align="right" />
 
 ## ***hi, i'm arie***
-i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service. 
+i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service
 
-## Routine
+**Routine**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%202%20mins-blue?style=flat)
