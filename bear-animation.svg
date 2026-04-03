@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300">
-    <style>
-          .gif-wrap {
-            animation: replay 5s steps(1) infinite;
-          }
-          @keyframes replay {
-            0%   { visibility: visible; }
-            95%  { visibility: visible; }
-            96%  { visibility: hidden; }
-            100% { visibility: hidden; }
-          }
-    </style>
-    <g class="gif-wrap">
-          <image href="coding-bear.jpg" width="300" height="300" preserveAspectRatio="xMidYMid meet"/>
-    </g>
+      <style>
+              .gif-wrap {
+                animation: replay 5s steps(1) infinite;
+              }
+              @keyframes replay {
+                0%   { visibility: visible; }
+                95%  { visibility: visible; }
+                96%  { visibility: hidden; }
+                100% { visibility: hidden; }
+              }
+      </style>
+      <g class="gif-wrap">
+              <image href="https://raw.githubusercontent.com/airesx2/airesx2/main/coding-bear.jpg" width="300" height="300" preserveAspectRatio="xMidYMid meet"/>
+      </g>
 </svg>
