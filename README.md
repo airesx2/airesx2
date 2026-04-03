@@ -1,3 +1,5 @@
+<img src="coding-bear.jpg" width="300" align="right" />
+
 ## hi, i'm arie 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%202%20mins-blue?style=flat)
