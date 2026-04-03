@@ -3,11 +3,10 @@
 ## ***hi, i'm arie***
 i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service. 
 
+## Routine
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%202%20mins-blue?style=flat)
-
-
-**Routine** 
 
 ```text
 Morning                111 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
@@ -26,12 +25,10 @@ Saturday                 23 commits          ██░░░░░░░░░�
 Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
-
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
-
 
  Last Updated on 03/04/2026 22:30:11 UTC
 <!--END_SECTION:waka-->
