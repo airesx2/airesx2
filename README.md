@@ -1,4 +1,4 @@
-<img src="bear-animation.svg" width="300" align="right" />
+<img src="coding-bear.jpg" width="300" align="right" />
 
 ## ***hi, i'm arie***
 i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service
