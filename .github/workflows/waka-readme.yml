@@ -14,15 +14,15 @@ jobs:
       - name: Checkout your fork
         uses: actions/checkout@v3
         with:
-          repository: airesx2/waka-readme-stats  # <-- replace with your fork username
-          ref: master                                    # <-- ensure your branch is actually 'main'
+          repository: airesx2/waka-readme-stats
+          ref: master
           token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 0                               # full clone to prevent fetch errors
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11  # match your repo's Python version
+          python-version: 3.11
 
       - name: Install dependencies
         run: |
@@ -44,3 +44,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           COMMIT_BY_ME: "True"
           SHOW_TOTAL_CODE_TIME: "False"
+          INPUT_SHOW_COMMIT: "True"
+          INPUT_SHOW_DAYS_OF_WEEK: "True"
