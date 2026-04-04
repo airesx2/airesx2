@@ -39,6 +39,7 @@ jobs:
           INPUT_SHOW_PROJECTS: "False"
           INPUT_SHOW_TIMEZONE: "False"
           INPUT_SHOW_EDITORS: "False"
+          INPUT_SHOW_LANGUAGE: "False"
           INPUT_SHOW_LANGUAGE_PER_REPO: "False"
           INPUT_SHOW_SHORT_INFO: "False"
           INPUT_SHOW_LOC_CHART: "False"
