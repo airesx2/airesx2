@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Waka Readme script
         run: |
-          python main.py
+          python sources/main.py
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
