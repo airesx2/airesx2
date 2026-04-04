@@ -14,7 +14,8 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: airesx2/waka-readme-stats  # your fork
-          ref: main                               # branch in your fork with modifications
+          ref: main                               # make sure your branch is actually called 'main'
+          token: ${{ secrets.GH_TOKEN }}         # ensures private/fork access if needed
 
       - name: Set up Python
         uses: actions/setup-python@v4
