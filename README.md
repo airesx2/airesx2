@@ -11,13 +11,9 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 
  ```text
 💬Programming Languages
-- ReactJS
-- Python
-- HTML
-- CSS
-- JavaScript
-- Java
-- C++
+* ReactJS * Python * HTML
+* CSS * JavaScript * Java
+* C++
 ```
 
 
