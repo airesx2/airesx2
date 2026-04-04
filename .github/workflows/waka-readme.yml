@@ -9,13 +9,15 @@ jobs:
   update-readme:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout your fork
         uses: actions/checkout@v3
         with:
-          repository: airesx2/waka-readme-stats  # your fork
-          ref: main                               # make sure your branch is actually called 'main'
-          token: ${{ secrets.GH_TOKEN }}         # ensures private/fork access if needed
+          repository: yourusername/waka-readme-stats  # <-- replace with your fork username
+          ref: main                                    # <-- ensure your branch is actually 'main'
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0                               # full clone to prevent fetch errors
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,6 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run Waka Readme script
