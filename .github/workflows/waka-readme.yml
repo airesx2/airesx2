@@ -30,8 +30,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Debug WakaTime API
-        run: |
-          curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_KEY" | python3 -c "import sys,json; d=json.load(sys.stdin); langs=d.get('data',{}).get('languages',[]); print('HTTP langs count:', len(langs)); print('status:', d.get('data',{}).get('status','none')); [print(l['name'],l.get('text','')) for l in langs[:5]]"
+        run: python3 -c "import urllib.request, json, os; key=os.environ['WAKATIME_KEY']; r=urllib.request.urlopen(f'https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={key}'); d=json.load(r); langs=d.get('data',{}).get('languages',[]); status=d.get('data',{}).get('status','none'); print(f'Status: {status}, Lang count: {len(langs)}'); [print(l['name'],l.get('text','')) for l in langs[:5]]"
         env:
           WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
