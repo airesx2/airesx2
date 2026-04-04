@@ -6,14 +6,15 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 
  #### ~~~~~ Routine ~~~~~
 
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
 
 
 ```text
