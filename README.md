@@ -3,6 +3,9 @@
 ## ***hi, i'm arie***
 i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service
 
+## 💬 Languages & Technologies
+` Python ` ` JavaScript ` ` ReactJS ` ` Java ` ` C++ ` ` HTML ` ` CSS `
+
 
  ### ~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
