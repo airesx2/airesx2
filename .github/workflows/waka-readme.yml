@@ -29,11 +29,6 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Debug WakaTime API
-        run: python3 -c "import urllib.request, json, os; key=os.environ['WAKATIME_KEY']; r=urllib.request.urlopen(f'https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={key}'); d=json.load(r); langs=d.get('data',{}).get('languages',[]); status=d.get('data',{}).get('status','none'); print(f'Status: {status}, Lang count: {len(langs)}'); [print(l['name'],l.get('text','')) for l in langs[:5]]"
-        env:
-          WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
       - name: Run Waka Readme script
         run: |
           python sources/main.py
@@ -52,3 +47,4 @@ jobs:
           INPUT_SHOW_PROFILE_VIEWS: "False"
           INPUT_SHOW_COMMIT: "True"
           INPUT_SHOW_DAYS_OF_WEEK: "True"
+          INPUT_DEBUG_LOGGING: "1"
