@@ -10,8 +10,25 @@ jobs:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: airesx2/waka-readme-stats
+      - name: Checkout your fork
+        uses: actions/checkout@v3
         with:
+          repository: airesx2/waka-readme-stats  # your fork
+          ref: main                               # branch in your fork with modifications
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11  # match your repo's Python version
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Waka Readme script
+        run: |
+          python main.py
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
@@ -22,5 +39,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           COMMIT_BY_ME: "True"
-
           SHOW_TOTAL_CODE_TIME: "False"
