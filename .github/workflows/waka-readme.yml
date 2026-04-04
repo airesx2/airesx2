@@ -43,6 +43,7 @@ jobs:
           INPUT_SHOW_SHORT_INFO: "False"
           INPUT_SHOW_LOC_CHART: "False"
           INPUT_COMMIT_BY_ME: "True"
-          INPUT_SHOW_TOTAL_CODE_TIME: "False"
+          INPUT_SHOW_TOTAL_CODE_TIME: "True"
+          INPUT_SHOW_PROFILE_VIEWS: "False"
           INPUT_SHOW_COMMIT: "True"
           INPUT_SHOW_DAYS_OF_WEEK: "True"
