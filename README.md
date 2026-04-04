@@ -15,6 +15,10 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 
 
 ```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+```text
 Morning                119 commits         ██████████░░░░░░░░░░░░░░░   38.89 % 
 Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
 Evening                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
@@ -30,10 +34,6 @@ Saturday                 31 commits          ███░░░░░░░░�
 Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
 
  Last Updated on 03/04/2026 23:08:06 UTC
 <!--END_SECTION:waka-->
