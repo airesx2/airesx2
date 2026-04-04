@@ -29,6 +29,15 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Debug WakaTime API
+        run: |
+          STATUS=$(curl -s -o /tmp/waka_resp.json -w "%{http_code}" "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_KEY")
+          echo "HTTP status: $STATUS"
+          echo "Languages count: $(cat /tmp/waka_resp.json | python3 -c \"import sys,json; d=json.load(sys.stdin); print(len(d.get('data',{}).get('languages',[])))\") "
+          echo "Response keys: $(cat /tmp/waka_resp.json | python3 -c \"import sys,json; d=json.load(sys.stdin); print(list(d.keys()))\") "
+        env:
+          WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
       - name: Run Waka Readme script
         run: |
           python sources/main.py
