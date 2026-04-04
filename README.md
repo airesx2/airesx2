@@ -1,7 +1,7 @@
 <img src="coding-bear.jpg" width="300" align="right" />
 
 ## ***hi, i'm arie***
-i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service... 
+i'm an aspiring EECS student... my friends and i build projects for local hackathons + community service
 
 
  #### ~~~~~ Routine ~~~~~
