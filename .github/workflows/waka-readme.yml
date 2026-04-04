@@ -14,7 +14,7 @@ jobs:
       - name: Checkout your fork
         uses: actions/checkout@v3
         with:
-          repository: yourusername/waka-readme-stats  # <-- replace with your fork username
+          repository: airesx2/waka-readme-stats  # <-- replace with your fork username
           ref: main                                    # <-- ensure your branch is actually 'main'
           token: ${{ secrets.GH_TOKEN }}
           fetch-depth: 0                               # full clone to prevent fetch errors
