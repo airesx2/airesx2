@@ -7,8 +7,6 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  #### ~~~~~ Routine ~~~~~
 
 
-<!-- Force WakaTime update -->
-![wakatime](https://wakatime.com/share/@yourusername/project.svg?cache=1)
 
 
 <!--START_SECTION:waka-->
