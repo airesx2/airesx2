@@ -7,20 +7,21 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  #### ~~~~~ Routine ~~~~~
 
 
-
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ███████████░░░░░░░░░░░░░░   45.38 % 
-🌆 Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌃 Evening                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-🌙 Night                  88 commits          ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+Morning                157 commits         ███████████░░░░░░░░░░░░░░   45.38 % 
+Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Evening                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Night                  88 commits          ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 ```
-📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
@@ -32,13 +33,6 @@ Saturday                 71 commits          █████░░░░░░�
 Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
 
 
  Last Updated on 04/04/2026 03:22:35 UTC
