@@ -9,6 +9,18 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
+ ```text
+💬Programming Languages
+- ReactJS
+- Python
+- HTML
+- CSS
+- JavaScript
+- Java
+- C++
+```
+
+
 ```text
 Morning                  163 commits         ███████████░░░░░░░░░░░░░░ 44.29 % 
 Daytime                  95 commits          ██████░░░░░░░░░░░░░░░░░░░ 25.82 % 
