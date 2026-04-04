@@ -49,3 +49,4 @@ jobs:
           INPUT_SHOW_COMMIT: "True"
           INPUT_SHOW_DAYS_OF_WEEK: "True"
           INPUT_DEBUG_LOGGING: "1"
+          INPUT_GRAPH_STYLE: "bar"
