@@ -13,7 +13,7 @@ jobs:
       - uses: airesx2/waka-readme-stats@994873c977ea21ca5aa4e26a5d15a1492b27b034
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_API_URL: https://hackatime.hackclub.com/api/compat/wakatime/v1
+                    WAKATIME_API_URL: https://hackatime.hackclub.com/api/hackatime/v1/
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
