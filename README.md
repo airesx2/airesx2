@@ -10,19 +10,19 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
 ```text
-Morning                  163 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 44.29 % 
-Daytime                  95 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25.82 % 
-Evening                  22 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 05.98 % 
-Night                    88 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 23.91 % 
+Morning                  163 commits         ███████████░░░░░░░░░░░░░░ 44.29 % 
+Daytime                  95 commits          ██████░░░░░░░░░░░░░░░░░░░ 25.82 % 
+Evening                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░ 05.98 % 
+Night                    88 commits          ██████░░░░░░░░░░░░░░░░░░░ 23.91 % 
 ```
 ```text
-Monday                   65 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 17.66 % 
-Tuesday                  40 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10.87 % 
-Wednesday                42 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11.41 % 
-Thursday                 56 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 15.22 % 
-Friday                   62 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.85 % 
-Saturday                 93 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25.27 % 
-Sunday                   10 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 02.72 % 
+Monday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░ 17.66 % 
+Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.87 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.41 % 
+Thursday                 56 commits          ████░░░░░░░░░░░░░░░░░░░░░ 15.22 % 
+Friday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░ 16.85 % 
+Saturday                 93 commits          ██████░░░░░░░░░░░░░░░░░░░ 25.27 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░ 02.72 % 
 ```
 
 
