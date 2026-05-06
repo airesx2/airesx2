@@ -10,7 +10,7 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  ### ~~~~~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue?style=flat)
 
 ```text
 Morning                  215 commits         ██████████░░░░░░░░░░░░░░░ 38.12 % 
@@ -30,7 +30,7 @@ Sunday                   35 commits          ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 19:58:04 UTC
+ Last Updated on 06/05/2026 20:09:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
