@@ -10,25 +10,8 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  ### ~~~~~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
 <!--START_SECTION:waka-->
-```text
-Morning                  217 commits         █████████░░░░░░░░░░░░░░░░ 37.80 % 
-Daytime                  131 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.82 % 
-Evening                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.15 % 
-Night                    162 commits         ███████░░░░░░░░░░░░░░░░░░ 28.22 % 
-```
-```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.72 % 
-Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.20 % 
-Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.41 % 
-Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.63 % 
-Friday                   130 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.65 % 
-Saturday                 126 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.95 % 
-Sunday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.45 % 
-```
 
-
-
- Last Updated on 22/05/2026 20:19:00 UTC
+ Last Updated on 23/05/2026 19:43:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
