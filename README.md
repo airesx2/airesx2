@@ -10,8 +10,27 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  ### ~~~~~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2032%20mins-blue?style=flat)
 
- Last Updated on 23/05/2026 19:43:55 UTC
+```text
+Morning                  217 commits         █████████░░░░░░░░░░░░░░░░ 37.80 % 
+Daytime                  131 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.82 % 
+Evening                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.15 % 
+Night                    162 commits         ███████░░░░░░░░░░░░░░░░░░ 28.22 % 
+```
+```text
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.72 % 
+Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.20 % 
+Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.41 % 
+Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.63 % 
+Friday                   130 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.65 % 
+Saturday                 126 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.95 % 
+Sunday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.45 % 
+```
+
+
+
+ Last Updated on 24/05/2026 19:46:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
