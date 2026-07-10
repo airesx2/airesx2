@@ -13,24 +13,24 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
 ![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2052%20mins-blue?style=flat)
 
 ```text
-Morning                  254 commits         ██████████░░░░░░░░░░░░░░░ 40.51 % 
-Daytime                  137 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.85 % 
-Evening                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.21 % 
-Night                    172 commits         ███████░░░░░░░░░░░░░░░░░░ 27.43 % 
+Morning                  254 commits         ██████████░░░░░░░░░░░░░░░ 40.38 % 
+Daytime                  139 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.10 % 
+Evening                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.17 % 
+Night                    172 commits         ███████░░░░░░░░░░░░░░░░░░ 27.34 % 
 ```
 ```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.44 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.24 % 
-Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.24 % 
-Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.32 % 
-Friday                   141 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.49 % 
-Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.05 % 
-Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.22 % 
+Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.40 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.20 % 
+Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 13.20 % 
+Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.29 % 
+Friday                   143 commits         ██████░░░░░░░░░░░░░░░░░░░ 22.73 % 
+Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░ 20.99 % 
+Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.20 % 
 ```
 
 
 
- Last Updated on 09/07/2026 20:18:07 UTC
+ Last Updated on 10/07/2026 19:58:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
