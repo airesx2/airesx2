@@ -10,25 +10,27 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  ### ~~~~~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2036%20mins-blue?style=flat)
+
 ```text
-Morning                  338 commits         ███████████░░░░░░░░░░░░░░ 43.44 % 
-Daytime                  168 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.59 % 
-Evening                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.03 % 
-Night                    194 commits         ██████░░░░░░░░░░░░░░░░░░░ 24.94 % 
+Morning                  394 commits         ███████████░░░░░░░░░░░░░░ 45.13 % 
+Daytime                  187 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.42 % 
+Evening                  86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 09.85 % 
+Night                    206 commits         ██████░░░░░░░░░░░░░░░░░░░ 23.60 % 
 ```
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 11.57 % 
-Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 12.60 % 
-Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 13.50 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░ 15.55 % 
-Friday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░ 19.67 % 
-Saturday                 158 commits         █████░░░░░░░░░░░░░░░░░░░░ 20.31 % 
-Sunday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.81 % 
+Monday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 11.57 % 
+Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 12.37 % 
+Wednesday                119 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 13.63 % 
+Thursday                 150 commits         ████░░░░░░░░░░░░░░░░░░░░░ 17.18 % 
+Friday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░ 18.33 % 
+Saturday                 174 commits         █████░░░░░░░░░░░░░░░░░░░░ 19.93 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 06.99 % 
 ```
 
 
 
- Last Updated on 07/08/2026 00:23:28 UTC
+ Last Updated on 07/08/2026 19:28:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
