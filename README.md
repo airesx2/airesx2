@@ -10,27 +10,27 @@ i'm an aspiring EECS student... my friends and i build projects for local hackat
  ### ~~~~~~~~~~~~~~~ Routine ~~~~~~~~~~~
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2025%20mins-blue?style=flat)
 
 ```text
-Morning                  430 commits         ███████████░░░░░░░░░░░░░░ 45.31 % 
-Daytime                  200 commits         █████░░░░░░░░░░░░░░░░░░░░ 21.07 % 
-Evening                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.22 % 
-Night                    222 commits         ██████░░░░░░░░░░░░░░░░░░░ 23.39 % 
+Morning                  443 commits         ████████████░░░░░░░░░░░░░ 46.05 % 
+Daytime                  200 commits         █████░░░░░░░░░░░░░░░░░░░░ 20.79 % 
+Evening                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░ 10.08 % 
+Night                    222 commits         ██████░░░░░░░░░░░░░░░░░░░ 23.08 % 
 ```
 ```text
-Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 11.70 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 12.12 % 
-Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 13.49 % 
-Thursday                 168 commits         ████░░░░░░░░░░░░░░░░░░░░░ 17.70 % 
-Friday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░ 17.49 % 
-Saturday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░ 20.13 % 
-Sunday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 07.38 % 
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 11.54 % 
+Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 11.95 % 
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░ 13.31 % 
+Thursday                 168 commits         ████░░░░░░░░░░░░░░░░░░░░░ 17.46 % 
+Friday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░ 17.26 % 
+Saturday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░ 19.85 % 
+Sunday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░ 08.63 % 
 ```
 
 
 
- Last Updated on 19/09/2026 20:54:35 UTC
+ Last Updated on 20/09/2026 20:58:45 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
